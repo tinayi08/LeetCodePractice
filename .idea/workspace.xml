@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0c2f966-cf58-4de2-8710-b572c1baba09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PracticeAlgorithms1/DesignParkingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeAlgorithms1/HowManyNumbersSmaller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeAlgorithms1/DesignParkingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeAlgorithms1/DesignParkingSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +43,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="Application.NumberOfGoodPairs">
-    <configuration name="BuildArrayFromPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeAlgorithms1.BuildArrayFromPermutation" />
+  <component name="RunManager" selected="Application.HowManyNumbersSmaller">
+    <configuration name="DefangingAnIPAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeAlgorithms1.DefangingAnIPAddress" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefangingAnIPAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeAlgorithms1.DefangingAnIPAddress" />
+    <configuration name="HowManyNumbersSmaller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeAlgorithms1.HowManyNumbersSmaller" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HowManyNumbersSmaller" />
         <item itemvalue="Application.NumberOfGoodPairs" />
         <item itemvalue="Application.KidsWithTheGreatestNumCandies" />
         <item itemvalue="Application.DefangingAnIPAddress" />
         <item itemvalue="Application.RunningSumOf1dArray" />
-        <item itemvalue="Application.BuildArrayFromPermutation" />
       </list>
     </recent_temporary>
   </component>
