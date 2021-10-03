@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0c2f966-cf58-4de2-8710-b572c1baba09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PracticeAlgorithms1/JewelsAndStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeAlgorithms1/DesignParkingSystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +27,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/PracticeAlgorithms1/JewelsAndStones.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1xt05XYplSztgntg61emcGsnTaA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -136,5 +139,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
