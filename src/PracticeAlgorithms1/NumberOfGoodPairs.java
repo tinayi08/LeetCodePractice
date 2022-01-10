@@ -10,7 +10,7 @@ public class NumberOfGoodPairs {
         NumberOfGoodPairs main = new NumberOfGoodPairs();
         int[] nums = {1,2,3,1,1,3};
         main.numIdenticalPairs(nums);
-    }
+    }for
     public int numIdenticalPairs(int[] nums) {
         int count = 0;
         for (int i = 0; i < nums.length; i++) {
