@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0c2f966-cf58-4de2-8710-b572c1baba09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PracticeAlgorithms1/MaxNumOfWordsFoundInSentences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeAlgorithms1/SubProductAndSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeAlgorithms1/NumberOfGoodPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeAlgorithms1/NumberOfGoodPairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="Application.HowManyNumbersSmaller">
+  <component name="RunManager" selected="Application.SubProductAndSum">
     <configuration name="DefangingAnIPAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeAlgorithms1.DefangingAnIPAddress" />
       <module name="LeetCode" />
@@ -95,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunningSumOf1dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeAlgorithms1.RunningSumOf1dArray" />
+    <configuration name="SubProductAndSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeAlgorithms1.SubProductAndSum" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubProductAndSum" />
         <item itemvalue="Application.HowManyNumbersSmaller" />
         <item itemvalue="Application.NumberOfGoodPairs" />
         <item itemvalue="Application.KidsWithTheGreatestNumCandies" />
         <item itemvalue="Application.DefangingAnIPAddress" />
-        <item itemvalue="Application.RunningSumOf1dArray" />
       </list>
     </recent_temporary>
   </component>
